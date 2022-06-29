@@ -1,3 +1,18 @@
+# react-movie
+
+    Responsive React Movies App With API
+
+# Preview
+
+![J-Movie-1](https://user-images.githubusercontent.com/79817432/176366555-cfbd7247-4025-4f37-a252-da9488672793.png)
+
+![J-Movie-2](https://user-images.githubusercontent.com/79817432/176366657-d127f51c-1561-4e48-a863-c4e199da8899.png)
+
+
+![J-Movie-3](https://user-images.githubusercontent.com/79817432/176366762-d4ced177-3ca8-4746-a258-9ff918b33e44.png)
+
+![J-Movie-4](https://user-images.githubusercontent.com/79817432/176366819-1a8ae73c-3d16-4115-b2ef-f56fd7f7dd39.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
