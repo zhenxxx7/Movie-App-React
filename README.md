@@ -21,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 clone this project: 
 
-### 'git clone https://github.com/zhenxxx7/Movie-App-React.git'
+### `git clone https://github.com/zhenxxx7/Movie-App-React.git`
 
 ## Available Scripts
 
