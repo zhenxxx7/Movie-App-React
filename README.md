@@ -1,4 +1,4 @@
-# react-movie
+# J-Movie React-App
 
     Responsive React Movies App With API
 
@@ -16,6 +16,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To Start
+
+clone this project: 
+
+### 'git clone https://github.com/zhenxxx7/Movie-App-React.git'
 
 ## Available Scripts
 
