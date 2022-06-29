@@ -5,7 +5,7 @@ import './footer.scss';
 import { Link } from 'react-router-dom';
 
 import bg from '../../assets/footer-bg.jpg';
-import logo from '../../assets/tmovie.png';
+import logo from '../../assets/playmovie.png';
 
 const Footer = () => {
     return (
@@ -14,7 +14,7 @@ const Footer = () => {
                 <div className="footer__content__logo">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">Movie Chas</Link>
+                        <Link to="/">Ass Movie</Link>
                     </div>
                 </div>
                 <div className="footer__content__menus">
@@ -35,15 +35,18 @@ const Footer = () => {
                         <Link to="/">Recent release</Link>
                         <Link to="/">Top IMDB</Link>
                     </div>
-                    <div>
-                    <footer className="footer mt-auto py-8">
-                        <div className="container d-flex justify-content-center">
-                            <span className="text-muted">
-                                Made by MIsael Jordy with ❤️
-                            </span>
-                        </div>
+                </div>
+                <div>
+                    <footer className="footer__content__made">
+                        <span>
+                            Made by <a href="https://github.com/zhenxxx7" target="_blank">Misael Jordy </a>with ❤️
+                        </span>
                     </footer>
-                    </div>
+                </div>
+                <div>
+                    <footer className="footer__content__copyright">
+                        <p class="cp">&#169; 2022 copyright all right reserved</p>
+                    </footer>
                 </div>
             </div>
         </div>
