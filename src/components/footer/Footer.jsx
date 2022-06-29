@@ -14,12 +14,12 @@ const Footer = () => {
                 <div className="footer__content__logo">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">tMovies</Link>
+                        <Link to="/">Movie Chas</Link>
                     </div>
                 </div>
                 <div className="footer__content__menus">
                     <div className="footer__content__menu">
-                        <Link to="/">Home</Link>
+                        <Link to="">Home</Link>
                         <Link to="/">Contact us</Link>
                         <Link to="/">Term of services</Link>
                         <Link to="/">About us</Link>
@@ -34,6 +34,15 @@ const Footer = () => {
                         <Link to="/">You must watch</Link>
                         <Link to="/">Recent release</Link>
                         <Link to="/">Top IMDB</Link>
+                    </div>
+                    <div>
+                    <footer className="footer mt-auto py-8">
+                        <div className="container d-flex justify-content-center">
+                            <span className="text-muted">
+                                Made by MIsael Jordy with ❤️
+                            </span>
+                        </div>
+                    </footer>
                     </div>
                 </div>
             </div>
