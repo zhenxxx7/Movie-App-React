@@ -12,6 +12,7 @@
 
         &__logo {
             @include flex(center, center);
+            margin-right: 0.5rem;
             margin-bottom: 3rem;
         }
 
@@ -40,13 +41,13 @@
             @include flex(flex-start, flex-start);
             flex-direction: column;
             margin-top: 5rem;
-            margin-left: 24rem;
+            margin-left: 23rem;
 
             font-size: 1rem;
             font-weight: 600;
 
             @media screen and (max-width: 768px) {
-                margin-left: 14rem;
+                margin-left: 11.8rem;
                 
             }
 
@@ -59,13 +60,13 @@
             @include flex(flex-start, flex-start);
             flex-direction: column;
             margin-top: 1rem;
-            margin-left: 22.5rem;
+            margin-left: 21.5rem;
 
             font-size: 1rem;
             font-weight: 600;
 
             @media screen and (max-width: 768px) {
-                margin-left: 12.3rem;
+                margin-left: 10rem;
                 
             }
 
