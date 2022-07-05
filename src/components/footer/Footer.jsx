@@ -39,7 +39,7 @@ const Footer = () => {
                 <div>
                     <footer className="footer__content__made">
                         <span>
-                            Made with ❤️ by <a href="https://github.com/zhenxxx7">Misael Jordy</a>
+                            Made with ❤️ by <a href="https://github.com/zhenxxx7">Misael Jordy </a>
                         </span>
                     </footer>
                 </div>
